@@ -328,6 +328,7 @@ iframe{
 .wrap-about .box-text {
     margin-top: 20px;
     margin-bottom: 24px;
+    color:yellow;
     
     background: rgba(34, 183, 143, 0.1);
 }
