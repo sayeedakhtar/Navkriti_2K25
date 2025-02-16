@@ -331,7 +331,9 @@ iframe{
     background: rgba(34, 183, 143, 0.1);
 }
 
-.wrap-about .box-text .h7{
+
+.wrap-about .box-text .h7 {
+
     color: yellow;
    
 }
